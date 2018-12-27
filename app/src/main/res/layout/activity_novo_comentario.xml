@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".View.activity_novo_comentario">
+
+    <EditText
+        android:id="@+id/edt_novo_comentario"
+        android:layout_width="match_parent"
+        android:layout_height="81dp"
+        android:layout_alignParentStart="true"
+        android:layout_below="@+id/textView5"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:ems="10"
+        android:inputType="textMultiLine"
+        android:textColorHighlight="@color/CordoBotao"
+        android:textColorHint="@color/CordoBotao"
+        android:textColorLink="@color/CordoBotao"
+        android:textCursorDrawable="@color/CordoBotao"/>
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:text="Novo comentário:"
+        android:textSize="42px" />
+
+    <Button
+        android:id="@+id/btn_nov_comentar"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/btn_nov_com_cancelar"
+        android:layout_marginLeft="35dp"
+        android:background="#649ece"
+        android:text="Comentar"
+        android:textColor="#fcfbfb"
+        android:textSize="12sp" />
+
+    <Button
+        android:id="@+id/btn_nov_com_cancelar"
+        android:layout_width="wrap_content"
+        android:layout_height="31dp"
+        android:layout_below="@+id/edt_novo_comentario"
+        android:layout_marginBottom="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginTop="15dp"
+        android:layout_toEndOf="@+id/textView5"
+        android:background="#649ece"
+        android:text="Cancelar"
+        android:textColor="#fcfbfb"
+        android:textSize="12sp" />
+</RelativeLayout>

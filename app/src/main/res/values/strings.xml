@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">CIH</string>
+    <string name="title_activity_cadastro">Cadastro</string>
+    <string name="logo">Could iHelp</string>
+    <string name="title_activity_principal">Home</string>
+    <string name="title_home">Início</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_nova">Nova</string>
+    <string name="title_activity_publicacao">Publicação</string>
+    <string name="title_activity_inicial">Inicial</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_comentario">activity_comentario</string>
+</resources>

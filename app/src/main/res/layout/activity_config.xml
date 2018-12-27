@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".View.activity_config">
+
+    <LinearLayout
+        android:layout_width="383dp"
+        android:layout_height="510dp"
+        android:orientation="vertical"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="     Configurações"
+            android:textSize="42px"
+            android:gravity="bottom"/>
+
+        <TextView
+            android:id="@+id/txtEditarPerfil"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="          - Editar perfil"
+            android:gravity="bottom"/>
+
+        <TextView
+            android:id="@+id/txtAlterarSenha"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="          - Alterar senha"
+            android:gravity="bottom"/>
+
+        <TextView
+            android:id="@+id/txtSair"
+            android:layout_width="match_parent"
+            android:layout_height="36dp"
+            android:text="          - Sair"
+            android:gravity="bottom"/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

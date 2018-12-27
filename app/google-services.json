@@ -1,0 +1,103 @@
+{
+  "project_info": {
+    "project_number": "920988340064",
+    "firebase_url": "https://could-i-help.firebaseio.com",
+    "project_id": "could-i-help",
+    "storage_bucket": "could-i-help.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920988340064:android:f968a4a5c167dfec",
+        "android_client_info": {
+          "package_name": "com.example.aluno.cih"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "920988340064-td1ggdu85477bc3uguv1ffig552ifrv0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "49e91aaa875a3251e4c938aa1141ea1dba0166f2"
+          }
+        },
+        {
+          "client_id": "920988340064-jpmqh3h02ggg1ddc207gdl5k5bar9n13.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "c64df58d9a2e4f8233d241e99aa28c42e59e49bf"
+          }
+        },
+        {
+          "client_id": "920988340064-mffrb9mh4dkj3ob4i1qp853ilupdqs6p.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "eebb6f363dddba6aed95d04e828c2d62ec2427fe"
+          }
+        },
+        {
+          "client_id": "920988340064-vm8sf3d4l0vothf388v179d4t2bticup.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "1b873fe2ab313aa32f2d8bae0484a42cea083842"
+          }
+        },
+        {
+          "client_id": "920988340064-16ekqs98cdnbteaphlf9edtbu9l8e8uk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "3fcbc4650b50913ef15bdb95b259a8978c7df2a4"
+          }
+        },
+        {
+          "client_id": "920988340064-n4v2enodlohfcbourl0qt4r2gaskhjdh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "c1f8fa01059efd74487fdacc495c77c1517fe678"
+          }
+        },
+        {
+          "client_id": "920988340064-ppi3km1e3aka88im5jatuispkn4m48qg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.aluno.cih",
+            "certificate_hash": "7a532c1e75b423dd69191e0cff77a2cd3beb0b7d"
+          }
+        },
+        {
+          "client_id": "920988340064-8i0fgvel2sief97hc9gjnl6fasekbv79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMEz33CqQDhsVK_jklx5H-GXBcpZjySYc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "920988340064-8i0fgvel2sief97hc9gjnl6fasekbv79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
